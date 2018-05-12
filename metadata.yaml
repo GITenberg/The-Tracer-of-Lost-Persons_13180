@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38191
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13180#The-Tracer-of-Lost-Persons
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
 identifiers:
